@@ -113,7 +113,7 @@ function Dashboard() {
         />
       </Space>
       <Space>
-        <RecentOrders />
+        {/* <RecentOrders /> */}
         <DashboardChart />
       </Space>
     </Space>
